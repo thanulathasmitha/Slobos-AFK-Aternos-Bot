@@ -1,14 +1,14 @@
 {
-  "name": "AFK Bot",
+  "name": "Hooloo_Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "Hooloo_bot",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
-    "version": "",
+    "ip": "hooloo.aternos.me:56924",
+    "port": 56924,
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
@@ -54,7 +54,7 @@
     },
     "random-jump": {
       "enabled": true,
-      "interval": 10000
+      "interval": 1000
     }
   },
   "modules": {
